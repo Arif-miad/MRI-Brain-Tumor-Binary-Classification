@@ -2,8 +2,8 @@
 
 # **Brain Tumor MRI Image Classification**
 
-![Brain Tumor MRI](https://via.placeholder.com/800x200.png?text=Brain+Tumor+MRI+Classification)  
-*(Replace with a representative image from your dataset)*
+![Brain Tumor MRI](https://github.com/Arif-miad/MRI-Brain-Tumor-Binary-Classification/blob/main/__results___15_0.png)  
+
 
 ---
 
