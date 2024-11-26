@@ -160,12 +160,12 @@ scikit-learn
 ### Example Plots:
 - **Accuracy and Loss Curves**  
   *(Replace with actual plots)*  
-  ![Accuracy Curve](https://via.placeholder.com/400x200.png?text=Accuracy+Curve)  
-  ![Loss Curve](https://via.placeholder.com/400x200.png?text=Loss+Curve)
+  ![Accuracy Curve](https://github.com/Arif-miad/MRI-Brain-Tumor-Binary-Classification/blob/main/__results___26_1.png)  
+  ![Loss Curve](https://github.com/Arif-miad/MRI-Brain-Tumor-Binary-Classification/blob/main/__results___26_0%20(1).png)
 
 - **Confusion Matrix**  
   *(Replace with actual matrix)*  
-  ![Confusion Matrix](https://via.placeholder.com/400x200.png?text=Confusion+Matrix)
+  ![Confusion Matrix](https://github.com/Arif-miad/MRI-Brain-Tumor-Binary-Classification/blob/main/__results___28_0.png)
 
 ---
 
@@ -177,7 +177,7 @@ scikit-learn
 ---
 
 ## **Contributors**
-- **[Your Name](https://github.com/your-username)**: Dataset creation, model development, and documentation.
+- **[Your Name](https://github.com/Arif-miad)**: Dataset creation, model development, and documentation.
 
 ---
 
